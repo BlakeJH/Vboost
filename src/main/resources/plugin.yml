@@ -2,3 +2,9 @@ name: Vboost
 version: '${project.version}'
 main: blake_jh.vboost.Vboost
 api-version: 1.19
+commands:
+  boost:
+    description: Allows the command sender to boost server airdrops.
+    usage: /boost
+    aliases: boost
+    permission: vitalize.boost
