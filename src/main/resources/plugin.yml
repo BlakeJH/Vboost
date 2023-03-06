@@ -1,0 +1,4 @@
+name: Vboost
+version: '${project.version}'
+main: blake_jh.vboost.Vboost
+api-version: 1.19
